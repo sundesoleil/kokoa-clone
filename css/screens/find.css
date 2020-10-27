@@ -34,14 +34,6 @@
   align-items: center;
 }
 
-.open-post2 {
-  border-top: var(--border);
-  margin-top: 20px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
 .open-post__title {
   font-weight: 600;
   margin-bottom: 7px;
