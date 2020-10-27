@@ -3,7 +3,7 @@
 .no-mobile {
   position: absolute;
   z-index: 99;
-  height: 100vh;
+  height: 120vh;
   width: 100vw;
   background-color: var(--yellow);
   display: flex;
@@ -19,7 +19,7 @@
   margin-left: 10px;
 }
 
-@media screen and (max-width: 645px) {
+@media screen and (max-width: 1045px) {
   .no-mobile {
     display: none;
   }
