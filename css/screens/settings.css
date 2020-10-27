@@ -1,0 +1,32 @@
+.settings__setting {
+  padding: 20px 0;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  color: rgba(0, 0, 0, 0.7);
+  justify-content: space-between;
+}
+
+.settings__setting__margin {
+  padding-bottom: 50px;
+}
+
+.settings__setting i {
+  margin-right: 20px;
+  font-size: 22px;
+}
+
+.settings__setting-column:last-child {
+  opacity: 0.6;
+}
+
+.settings-list2 {
+  padding-top: 40px;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.settings_new i {
+  color: tomato;
+  font-size: 15px;
+}
