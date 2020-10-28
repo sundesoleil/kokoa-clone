@@ -19,7 +19,7 @@
   margin-left: 10px;
 }
 
-@media screen and (max-width: 1045px) {
+@media screen and (max-width: 685px) {
   .no-mobile {
     display: none;
   }
